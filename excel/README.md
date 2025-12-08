@@ -9,3 +9,5 @@ Includes:
 - Final interactive Excel dashboard  
 
 All data used in this project is fully synthetic and created for portfolio purposes.
+
+Note: The uploaded Excel file contains the final dashboard only. Source data and intermediate processing were handled separately.
