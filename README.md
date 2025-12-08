@@ -6,8 +6,8 @@ This project analyzes Emergency Department (ED) waiting time patterns using a fu
 - Excel
 - Power Query
 - Pivot Tables
-- (Planned) SQL
-- (Planned) Power BI
+- SQL
+- Power BI
 
 ## Key KPIs (Excel Dashboard)
 - Average Wait Time: 41.0 min  
