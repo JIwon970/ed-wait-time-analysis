@@ -67,8 +67,8 @@ Each folder contains its own README file for detailed explanations.
 
 SQL results were verified to match the Excel dashboard results.
 
-SQL files location:
-/sql/ed_kpi_queries.sql
+SQL files location:<br/>
+/sql/ed_kpi_queries.sql<br/>
 /sql/ed_group_analysis.sql
 
 ---
@@ -85,7 +85,7 @@ SQL files location:
 - Dynamic visuals replace static Excel charts
 - Final dashboard allows real-time filtering and insight exploration
 
-Power BI file location:
+Power BI file location:<br/>
 /powerbi/ED_Wait_Time_Dashboard.pbix
 
 ---
@@ -100,7 +100,7 @@ A full project report was created to summarize:
 - SQL validation results  
 - Power BI dashboard insights  
 
-PDF report location:
+PDF report location:<br/>
 /report/ED_Wait_Time_Analysis_Report.pdf
 
 ---
