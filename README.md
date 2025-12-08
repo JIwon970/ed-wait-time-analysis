@@ -39,6 +39,7 @@ All KPI values were first created in Excel and then fully reproduced using SQL.
 
 ## Project Structure
 
+/python - Synthetic data generation
 /excel - Excel dashboard and analysis
 /sql - SQL KPI and group analysis queries
 /data - SQLite database file
