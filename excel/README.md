@@ -3,7 +3,6 @@
 This project analyzes Emergency Department (ED) waiting times using Excel.  
 It shows how waiting time changes by hospital, triage category, weekday, hour, and peak hours.
 
----
 
 ## Dataset
 - Synthetic Emergency Department dataset
@@ -11,7 +10,6 @@ It shows how waiting time changes by hospital, triage category, weekday, hour, a
 - Key fields: Date, Hospital Name, Triage Category, Time, Waiting Time, Treatment Time, Crowding Level
 - No real patient data is included
 
----
 
 ## Tools
 - Microsoft Excel
@@ -21,7 +19,6 @@ It shows how waiting time changes by hospital, triage category, weekday, hour, a
 - Slicers
 - Excel Charts
 
----
 
 ## Data Cleaning
 - Created Weekday and Hour from Date and Time
@@ -29,7 +26,6 @@ It shows how waiting time changes by hospital, triage category, weekday, hour, a
 - Renamed columns
 - Separated Raw Data and Cleaned Data
 
----
 
 ## KPIs
 - Average Waiting Time  
@@ -38,7 +34,6 @@ It shows how waiting time changes by hospital, triage category, weekday, hour, a
 - Total Patients  
 - Average Peak Hour Waiting Time  
 
----
 
 ## Dashboard
 - Filters: Hospital, Triage Category, Weekday, Hour, Peak Hour
@@ -49,14 +44,12 @@ It shows how waiting time changes by hospital, triage category, weekday, hour, a
   - Wait Time by Hour
   - Peak vs Non-Peak
 
----
 
 ## Key Insights
 - Average waiting time is about **41 minutes**
 - Peak hours do not greatly increase waiting time
 - Higher triage levels (4–5) have longer waiting times
 
----
 
 ## Author
 Analyst: Jiwon Yang  
