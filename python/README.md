@@ -2,7 +2,6 @@
 
 This folder contains the Python script used to generate the synthetic Emergency Department (ED) dataset for this project.
 
----
 
 ## Purpose
 The purpose of this script is to:
@@ -10,7 +9,6 @@ The purpose of this script is to:
 - Simulate Emergency Department waiting time data
 - Create a dataset that is safe to use for portfolio projects (no real patient data)
 
----
 
 ## What the Script Does
 The Python script:
@@ -30,7 +28,6 @@ This CSV file is later:
 - Saved as a database table
 - Used for SQL analysis and dashboards
 
----
 
 ## Tools Used
 - Python
@@ -38,7 +35,6 @@ This CSV file is later:
 - Random
 - Datetime
 
----
 
 ## Data Disclaimer
 - This dataset is **fully synthetic**
